@@ -12,17 +12,30 @@ A list of Domain-Driven Design resources that I found interesting on my journey 
 
 # Articles
 ## Aggregates
-- DDD - Fictitious Aggregate Root
-https://stackoverflow.com/a/46947901
 - DDD Decoded - The Aggregate and Aggregate Root Explained, Mike Mogosanu
 http://blog.sapiensworks.com/post/2016/07/14/DDD-Aggregate-Decoded-1
 - Identifying An Aggregate Is Not Object Oriented Design, Mike Mogosanu
 http://blog.sapiensworks.com/post/2018/01/08/DDD-Aggregate-groups-behaviour-not-data
-- Consistency across Aggregate Root
-https://groups.google.com/forum/#!topic/dddcqrs/qf0EzujnDWA
 
 ## Domain Services
 - Services in Domain-Driven Design, Jimmy Bogard
 https://lostechies.com/jimmybogard/2008/08/21/services-in-domain-driven-design/
 - Strengthening your domain: The double dispatch pattern, Jimmy Bogard
 https://lostechies.com/jimmybogard/2010/03/30/strengthening-your-domain-the-double-dispatch-pattern/
+
+## Application Services
+- Application Services - 10 common doubts answered, Robert Pankowecki (23/12/2017).
+https://blog.arkency.com/application-service-ruby-rails-ddd/
+
+# Q&A
+## Aggregates
+- DDD - Fictitious Aggregate Root
+https://stackoverflow.com/a/46947901
+- Consistency across Aggregate Root
+https://groups.google.com/forum/#!topic/dddcqrs/qf0EzujnDWA
+
+# Sample projects
+- DDD Sample Core
+https://github.com/citerus/dddsample-core
+- IDDD
+https://github.com/VaughnVernon/IDDD_Samples
