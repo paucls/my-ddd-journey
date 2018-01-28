@@ -26,6 +26,10 @@ https://lostechies.com/jimmybogard/2010/03/30/strengthening-your-domain-the-doub
 ## Application Services
 - Application Services - 10 common doubts answered, Robert Pankowecki (23/12/2017).
 https://blog.arkency.com/application-service-ruby-rails-ddd/
+- Services in Domain-Driven Design (DDD), Lev Gorodinski (14/04/2012)
+http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/
+
+    Shows full example with: application service PurchaseOrderService, aggregate root PurchaseOrder, value object Invoice, etc.
 
 # Q&A
 ## Aggregates
