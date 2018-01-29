@@ -19,6 +19,11 @@ http://blog.sapiensworks.com/post/2018/01/08/DDD-Aggregate-groups-behaviour-not-
 - Strengthening your domain: Aggregate Construction, Jimmy Bogard (24/02/2010)
 https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/
 
+## Entities
+- How *not* to inject services in entities, Jeremie Chassaing (04/03/2009)
+https://thinkbeforecoding.com/post/2009/03/04/How-not-to-inject-services-in-entities
+[Explains how Double Dispatch can be the solution when an Entity needs to use a service]
+
 ## Domain Services
 - Services in Domain-Driven Design, Jimmy Bogard
 https://lostechies.com/jimmybogard/2008/08/21/services-in-domain-driven-design/
@@ -30,8 +35,7 @@ https://lostechies.com/jimmybogard/2010/03/30/strengthening-your-domain-the-doub
 https://blog.arkency.com/application-service-ruby-rails-ddd/
 - Services in Domain-Driven Design (DDD), Lev Gorodinski (14/04/2012)
 http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/
-
-    Shows full example with: application service PurchaseOrderService, aggregate root PurchaseOrder, value object Invoice, etc.
+[Shows full example with: application service PurchaseOrderService, aggregate root PurchaseOrder, value object Invoice, etc.]
 
 # Q&A
 ## Aggregates
