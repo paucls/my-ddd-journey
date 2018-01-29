@@ -16,6 +16,8 @@ A list of Domain-Driven Design resources that I found interesting on my journey 
 http://blog.sapiensworks.com/post/2016/07/14/DDD-Aggregate-Decoded-1
 - Identifying An Aggregate Is Not Object Oriented Design, Mike Mogosanu
 http://blog.sapiensworks.com/post/2018/01/08/DDD-Aggregate-groups-behaviour-not-data
+- Strengthening your domain: Aggregate Construction, Jimmy Bogard (24/02/2010)
+https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/
 
 ## Domain Services
 - Services in Domain-Driven Design, Jimmy Bogard
