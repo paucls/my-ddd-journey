@@ -37,6 +37,10 @@ https://blog.arkency.com/application-service-ruby-rails-ddd/
 http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/
 [Shows full example with: application service PurchaseOrderService, aggregate root PurchaseOrder, value object Invoice, etc.]
 
+## Supporting Architectures
+- DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together, Herberto Graça
+https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+
 # Q&A
 ## Aggregates
 - DDD - Fictitious Aggregate Root
