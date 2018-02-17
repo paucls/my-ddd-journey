@@ -9,6 +9,7 @@ A list of Domain-Driven Design resources that I found interesting on my journey 
 - Designing Autonomous Teams and Services, Nick Tune and Scott Millett - 2017 http://www.oreilly.com/programming/free/designing-autonomous-teams-and-services.csp
 
 # Podcasts
+- Being The Worst. Audio apprenticeships for the aspiring software craftsman. Currently exploring DDD, Event Sourcing, CQRS, distributed systems, etc. http://www.beingtheworst.com/
 
 # Articles
 ## Aggregates
