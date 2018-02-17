@@ -21,6 +21,8 @@ http://blog.sapiensworks.com/post/2018/01/08/DDD-Aggregate-groups-behaviour-not-
 https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/
 - Aggregate Roots Should Look After Their Own Events, Mike Mogosanu (22/05/2014)
 http://blog.sapiensworks.com/post/2014/05/22/Aggregate-Roots-Should-Look-After-Their-Own-Events.aspx.html
+- DDD - Persisting Aggregate Roots In A Unit Of Work, Mike Mogosanu (01/05/2013)
+http://blog.sapiensworks.com/post/2013/05/01/DDD-Persisting-Aggregate-Roots-In-A-Unit-Of-Work.aspx
 
 ## Entities
 - How *not* to inject services in entities, Jeremie Chassaing (04/03/2009)
