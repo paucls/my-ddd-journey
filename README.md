@@ -19,11 +19,15 @@ http://blog.sapiensworks.com/post/2016/07/14/DDD-Aggregate-Decoded-1
 http://blog.sapiensworks.com/post/2018/01/08/DDD-Aggregate-groups-behaviour-not-data
 - Strengthening your domain: Aggregate Construction, Jimmy Bogard (24/02/2010)
 https://lostechies.com/jimmybogard/2010/02/24/strengthening-your-domain-aggregate-construction/
+- Aggregate Roots Should Look After Their Own Events, Mike Mogosanu (22/05/2014)
+http://blog.sapiensworks.com/post/2014/05/22/Aggregate-Roots-Should-Look-After-Their-Own-Events.aspx.html
 
 ## Entities
 - How *not* to inject services in entities, Jeremie Chassaing (04/03/2009)
 https://thinkbeforecoding.com/post/2009/03/04/How-not-to-inject-services-in-entities
 [Explains how Double Dispatch can be the solution when an Entity needs to use a service]
+- Entities should look after their own events, Mat McLoughlin
+http://mat-mcloughlin.net/2014/05/22/entities-should-look-after-their-own-events/
 
 ## Domain Services
 - Services in Domain-Driven Design, Jimmy Bogard
@@ -48,6 +52,8 @@ https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onio
 https://stackoverflow.com/a/46947901
 - Consistency across Aggregate Root
 https://groups.google.com/forum/#!topic/dddcqrs/qf0EzujnDWA
+- Aggregate roots coordinating their entities in an event sourcing system [Should an AR wrap the behavior of its entities?]
+https://groups.google.com/forum/#!topic/dddcqrs/T9bWd48e40I
 
 # Sample projects
 - DDD Sample Core
