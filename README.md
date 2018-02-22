@@ -7,6 +7,8 @@ A list of Domain-Driven Design resources that I found interesting on my journey 
 - Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans - 2003.
 - The Anatomy Of Domain-Driven Design - Booklet https://leanpub.com/theanatomyofdomain-drivendesign
 - Designing Autonomous Teams and Services, Nick Tune and Scott Millett - 2017 http://www.oreilly.com/programming/free/designing-autonomous-teams-and-services.csp
+- CQRS Documents, Greg Young
+https://github.com/keyvanakbary/cqrs-documents
 
 # Podcasts
 - Being The Worst. Audio apprenticeships for the aspiring software craftsman. Currently exploring DDD, Event Sourcing, CQRS, distributed systems, etc. http://www.beingtheworst.com/
