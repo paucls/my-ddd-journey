@@ -9,6 +9,8 @@ A list of Domain-Driven Design resources that I found interesting on my journey 
 - Designing Autonomous Teams and Services, Nick Tune and Scott Millett - 2017 http://www.oreilly.com/programming/free/designing-autonomous-teams-and-services.csp
 - CQRS Documents, Greg Young
 https://github.com/keyvanakbary/cqrs-documents
+- Functional and Reactive Domain Modeling, Debasish Ghosh - 2016.
+- Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#, Scott Wlaschin - 2018.
 
 # Podcasts
 - Being The Worst. Audio apprenticeships for the aspiring software craftsman. Currently exploring DDD, Event Sourcing, CQRS, distributed systems, etc. http://www.beingtheworst.com/
@@ -64,3 +66,5 @@ https://groups.google.com/forum/#!topic/dddcqrs/T9bWd48e40I
 https://github.com/citerus/dddsample-core
 - IDDD
 https://github.com/VaughnVernon/IDDD_Samples
+- Domain Driven Design Example C#, Zan Kavtaskin
+https://github.com/zkavtaskin/Domain-Driven-Design-Example
