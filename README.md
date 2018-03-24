@@ -12,6 +12,11 @@ https://github.com/keyvanakbary/cqrs-documents
 - Functional and Reactive Domain Modeling, Debasish Ghosh - 2016.
 - Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#, Scott Wlaschin - 2018.
 
+# Online Courses
+- [Domain-Driven Design Distilled, Vaughn Vernon. (4h)](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/)
+- [Domain-Driven Design in Practice, Vladimir Khorikov.](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents)
+- CQRS Tutorial http://cqrs.nu/
+
 # Podcasts
 - Being The Worst. Audio apprenticeships for the aspiring software craftsman. Currently exploring DDD, Event Sourcing, CQRS, distributed systems, etc. http://www.beingtheworst.com/
 
@@ -63,6 +68,14 @@ https://stackoverflow.com/a/46947901
 https://groups.google.com/forum/#!topic/dddcqrs/qf0EzujnDWA
 - Aggregate roots coordinating their entities in an event sourcing system [Should an AR wrap the behavior of its entities?]
 https://groups.google.com/forum/#!topic/dddcqrs/T9bWd48e40I
+
+# Talks
+- Domain Driven Design: The Good Parts. Jimmy Bogard. (08/2016)
+https://youtu.be/U6CeaA-Phqo
+- A Decade of DDD, CQRS, Event Sourcing. Greg Young. DDD Europe. (29/01/2016)
+https://youtu.be/LDW0QWie21s
+- Eric Evans: What I've learned about DDD since the book. (2009)
+https://youtu.be/lE6Hxz4yomA
 
 # Sample projects
 - DDD Sample Core
