@@ -76,6 +76,8 @@ https://youtu.be/U6CeaA-Phqo
 https://youtu.be/LDW0QWie21s
 - Eric Evans: What I've learned about DDD since the book. (2009)
 https://youtu.be/lE6Hxz4yomA
+- Evil by Design, Jef Claes. (01/2016) [Visualization of events on a ES system]
+https://youtu.be/EmMvnB2v1GQ
 
 # Sample projects
 - DDD Sample Core
