@@ -78,6 +78,9 @@ https://youtu.be/LDW0QWie21s
 https://youtu.be/lE6Hxz4yomA
 - Evil by Design, Jef Claes. (01/2016) [Visualization of events on a ES system]
 https://youtu.be/EmMvnB2v1GQ
+- DDD Strategic Design With Spring Boot, Michael Plod. (2017) [Introduction to Bounded Context and Context Maps]
+https://youtu.be/DXbmfcgOvUI
+https://speakerdeck.com/mploed/ddd-strategic-design-with-spring-boot-examples
 
 # Sample projects
 - DDD Sample Core
