@@ -35,7 +35,6 @@ http://blog.sapiensworks.com/post/2013/05/01/DDD-Persisting-Aggregate-Roots-In-A
 - Aggregates and RFC 2119, Danil Suits (05/02/2017)
 http://cascadefaliure.vocumsineratio.com/2017/02/aggregates-and-rfc-2119.html
 
-
 ## Entities
 - How *not* to inject services in entities, Jeremie Chassaing (04/03/2009)
 https://thinkbeforecoding.com/post/2009/03/04/How-not-to-inject-services-in-entities
@@ -55,6 +54,10 @@ https://blog.arkency.com/application-service-ruby-rails-ddd/
 - Services in Domain-Driven Design (DDD), Lev Gorodinski (14/04/2012)
 http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/
 [Shows full example with: application service PurchaseOrderService, aggregate root PurchaseOrder, value object Invoice, etc.]
+
+## Event Sourcing
+- Scalable Microservices with Event Sourcing and Redis, Tom Mooney (13/12/2017)
+https://medium.com/lcom-techblog/scalable-microservices-with-event-sourcing-and-redis-6aa245574db0
 
 ## Supporting Architectures
 - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together, Herberto Graça
