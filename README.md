@@ -62,6 +62,9 @@ https://medium.com/lcom-techblog/scalable-microservices-with-event-sourcing-and-
 ## Supporting Architectures
 - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together, Herberto Graça
 https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+- Hexagonal Architecture for Rails Developers, Victor Savkin (23/07/2016)
+https://medium.com/@vsavkin/hexagonal-architecture-for-rails-developers-8b1fee64a613
+
 ### REST
 - There is No U in CRUD, James Hood (25/07/2017) [resist the urge to follow the CRUD model for service APIs (use DDD to define your API in terms of domain objects and the business operations]
 http://jlhood.com/there-is-no-u-in-crud/
