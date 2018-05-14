@@ -55,6 +55,10 @@ https://blog.arkency.com/application-service-ruby-rails-ddd/
 http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/
 [Shows full example with: application service PurchaseOrderService, aggregate root PurchaseOrder, value object Invoice, etc.]
 
+## Domain Events
+- Spring - Domain event publication from aggregate roots, Mark Paluch (30/01/2017).
+https://spring.io/blog/2017/01/30/what-s-new-in-spring-data-release-ingalls#domain-event-publication-from-aggregate-roots
+
 ## Event Sourcing
 - Scalable Microservices with Event Sourcing and Redis, Tom Mooney (13/12/2017)
 https://medium.com/lcom-techblog/scalable-microservices-with-event-sourcing-and-redis-6aa245574db0
@@ -66,6 +70,10 @@ https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onio
 https://medium.com/@vsavkin/hexagonal-architecture-for-rails-developers-8b1fee64a613
 - Vertical Slice Architecture, Jimmy Bogard (19/04/2018)
 https://jimmybogard.com/vertical-slice-architecture/
+
+## Other
+- Authentication and Authorization in DDD, José Luis Martínez (8/01/2016)
+https://medium.com/@martinezdelariva/authentication-and-authorization-in-ddd-671f7a5596ac
 
 ### REST
 - There is No U in CRUD, James Hood (25/07/2017) [resist the urge to follow the CRUD model for service APIs (use DDD to define your API in terms of domain objects and the business operations]
