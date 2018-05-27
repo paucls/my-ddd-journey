@@ -56,6 +56,8 @@ http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/
 [Shows full example with: application service PurchaseOrderService, aggregate root PurchaseOrder, value object Invoice, etc.]
 
 ## Domain Events
+- A better domain events pattern, Jimmy Bogard (2014/05/13).
+https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/
 - Spring - Domain event publication from aggregate roots, Mark Paluch (30/01/2017).
 https://spring.io/blog/2017/01/30/what-s-new-in-spring-data-release-ingalls#domain-event-publication-from-aggregate-roots
 - Domain Events vs. Integration Events in Domain-Driven Design and microservices architectures, Cesar de la Torre (07/02/2017).
