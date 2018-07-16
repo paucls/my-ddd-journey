@@ -76,6 +76,7 @@ https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onio
 https://medium.com/@vsavkin/hexagonal-architecture-for-rails-developers-8b1fee64a613
 - Vertical Slice Architecture, Jimmy Bogard (19/04/2018)
 https://jimmybogard.com/vertical-slice-architecture/
+- Is Layering Worth the Mapping?, Mark Seemann (9/1/2012) http://blog.ploeh.dk/2012/02/09/IsLayeringWorththeMapping
 
 ## Other
 - Authentication and Authorization in DDD, José Luis Martínez (8/01/2016)
