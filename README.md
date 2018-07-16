@@ -41,6 +41,8 @@ https://thinkbeforecoding.com/post/2009/03/04/How-not-to-inject-services-in-enti
 [Explains how Double Dispatch can be the solution when an Entity needs to use a service]
 - Entities should look after their own events, Mat McLoughlin
 http://mat-mcloughlin.net/2014/05/22/entities-should-look-after-their-own-events/
+- A Better Way to Project Domain Entities into DTOs, Nick Chamberlain
+https://buildplease.com/pages/repositories-dto/ [Should the projection from Aggregate(s) to DTO be done inside your Repositories?]
 
 ## Domain Services
 - Services in Domain-Driven Design, Jimmy Bogard
