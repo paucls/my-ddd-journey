@@ -19,6 +19,8 @@ https://github.com/keyvanakbary/cqrs-documents
 
 # Podcasts
 - Being The Worst. Audio apprenticeships for the aspiring software craftsman. Currently exploring DDD, Event Sourcing, CQRS, distributed systems, etc. http://www.beingtheworst.com/
+- Domain Driven Design and Micro Services With Vaughn Vernon. (17/08/208)
+https://corecursive.com/018-micro-services-and-domain-driven-design-with-vaughn-vernon/
 
 # Articles
 ## Aggregates
