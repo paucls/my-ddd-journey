@@ -112,7 +112,7 @@ https://youtu.be/EmMvnB2v1GQ
 https://youtu.be/DXbmfcgOvUI
 https://speakerdeck.com/mploed/ddd-strategic-design-with-spring-boot-examples
 ## Supporting Architectures
-- Evolutionary Software Architectures, Neal Ford https://youtu.be/CglSFhwbI3s [Technical Architecture vs Domain Architecture]
+- Evolutionary Software Architectures, Neal Ford [Technical Architecture vs Domain Architecture] https://youtu.be/CglSFhwbI3s
 
 # Sample projects
 - DDD Sample Core
