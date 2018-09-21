@@ -111,6 +111,8 @@ https://youtu.be/EmMvnB2v1GQ
 - DDD Strategic Design With Spring Boot, Michael Plod. (2017) [Introduction to Bounded Context and Context Maps]
 https://youtu.be/DXbmfcgOvUI
 https://speakerdeck.com/mploed/ddd-strategic-design-with-spring-boot-examples
+## Supporting Architectures
+- Evolutionary Software Architectures, Neal Ford https://youtu.be/CglSFhwbI3s [Technical Architecture vs Domain Architecture]
 
 # Sample projects
 - DDD Sample Core
