@@ -99,6 +99,10 @@ https://groups.google.com/forum/#!topic/dddcqrs/qf0EzujnDWA
 - Aggregate roots coordinating their entities in an event sourcing system [Should an AR wrap the behavior of its entities?]
 https://groups.google.com/forum/#!topic/dddcqrs/T9bWd48e40I
 
+# Entities
+- DDD Injecting Services on Entity Methods Calls [Is it within best practices of DDD and OOP to inject services on entity method calls?]
+https://softwareengineering.stackexchange.com/questions/357969/ddd-injecting-services-on-entity-methods-calls
+
 # Talks
 - Domain Driven Design: The Good Parts. Jimmy Bogard. (08/2016)
 https://youtu.be/U6CeaA-Phqo
