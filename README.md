@@ -81,6 +81,8 @@ https://medium.com/@vsavkin/hexagonal-architecture-for-rails-developers-8b1fee64
 - Vertical Slice Architecture, Jimmy Bogard (19/04/2018)
 https://jimmybogard.com/vertical-slice-architecture/
 - Is Layering Worth the Mapping?, Mark Seemann (9/1/2012) http://blog.ploeh.dk/2012/02/09/IsLayeringWorththeMapping
+- How CQRS Works with Spring Tools, Jakub Pilimon (16/10/2018)
+https://thenewstack.io/how-cqrs-works-with-spring-tools/
 
 ## Other
 - Authentication and Authorization in DDD, José Luis Martínez (8/01/2016)
@@ -127,3 +129,5 @@ https://github.com/citerus/dddsample-core
 https://github.com/VaughnVernon/IDDD_Samples
 - Domain Driven Design Example C#, Zan Kavtaskin
 https://github.com/zkavtaskin/Domain-Driven-Design-Example
+- All Things CQRS, A bunch of ways of doing CQRS with various Spring tools, Jakub Pilimon
+https://github.com/ddd-by-examples/all-things-cqrs
