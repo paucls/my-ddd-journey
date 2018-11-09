@@ -119,6 +119,8 @@ https://youtu.be/DXbmfcgOvUI
 https://speakerdeck.com/mploed/ddd-strategic-design-with-spring-boot-examples
 - Case Study: Practical tools and strategies for tackling legacy practices and legacy systems in a fast-growing startup, Alejandro Scandroli
 https://www.slideshare.net/ascandroli/case-study-practical-tools-and-strategies-for-tackling-legacy-practices-and-legacy-systems-in-a-fastgrowing-startup
+- Adopting Domain Driven Design in your organization, Aleix Morgadas. (03/11/2018) https://docs.google.com/presentation/d/1Yiw6_u0rcJVHNBjnis56HdBiVg0-aGEMQPG06XG37zA
+
 ## Supporting Architectures
 - Evolutionary Software Architectures, Neal Ford [Technical Architecture vs Domain Architecture] https://youtu.be/CglSFhwbI3s
 
