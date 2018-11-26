@@ -51,6 +51,7 @@ https://buildplease.com/pages/repositories-dto/ [Should the projection from Aggr
 https://lostechies.com/jimmybogard/2008/08/21/services-in-domain-driven-design/
 - Strengthening your domain: The double dispatch pattern, Jimmy Bogard
 https://lostechies.com/jimmybogard/2010/03/30/strengthening-your-domain-the-double-dispatch-pattern/
+- And Then This Happened, Vaughn Vernon (24/11/2018) https://kalele.io/cqrs/and-then-this-happened/ [ how using Domain Events or not using them can impact the Command Model and the projection of changes into the Query Model]
 
 ## Application Services
 - Application Services - 10 common doubts answered, Robert Pankowecki (23/12/2017).
