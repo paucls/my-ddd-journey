@@ -123,15 +123,21 @@ https://www.slideshare.net/ascandroli/case-study-practical-tools-and-strategies-
 - Adopting Domain Driven Design in your organization, Aleix Morgadas. (03/11/2018) https://docs.google.com/presentation/d/1Yiw6_u0rcJVHNBjnis56HdBiVg0-aGEMQPG06XG37zA
 - Case Study: tools and strategies for tackling legacy practices, Alejandro Scandroli. (2018)
 https://youtu.be/i8GzkkMWGYE [DDD strategic design, Wardley Maps, ...]
+- Domain Language throughout Tests, combining DDD and BDD. Kenny Baas
+https://youtu.be/xSZnKnZ8EAo  [event storming, feature mapping, example mapping, ...]
 
 ## Supporting Architectures
 - Evolutionary Software Architectures, Neal Ford [Technical Architecture vs Domain Architecture] https://youtu.be/CglSFhwbI3s
+- The Actor Model, Hewitt, Meijer and Szyperski
+https://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask
 
 # Sample projects
 - DDD Sample Core
 https://github.com/citerus/dddsample-core
 - IDDD
 https://github.com/VaughnVernon/IDDD_Samples
+- BookARoom is a simple project to explain CQRS, Thomas Pierrain
+https://github.com/tpierrain/CQRS/blob/master/README.md
 - Domain Driven Design Example C#, Zan Kavtaskin
 https://github.com/zkavtaskin/Domain-Driven-Design-Example
 - All Things CQRS, A bunch of ways of doing CQRS with various Spring tools, Jakub Pilimon
