@@ -127,6 +127,9 @@ https://www.slideshare.net/ascandroli/case-study-practical-tools-and-strategies-
 https://youtu.be/i8GzkkMWGYE [DDD strategic design, Wardley Maps, ...]
 - Domain Language throughout Tests, combining DDD and BDD. Kenny Baas
 https://youtu.be/xSZnKnZ8EAo  [event storming, feature mapping, example mapping, ...]
+- From Legacy Chaos to the Promised Land of DDD, Anita Kvamme and Ellen Lippe, 2018
+https://youtu.be/bnaYU4fjGe4
+[...changing software architecture and code isn't really about changing software architecture and code, it's about the people, it's about each individual and the interaction between them, it's about helping team members changing habits, to mentor and teach new skills, most of all to work all align together as a team]
 
 ## Supporting Architectures
 - Evolutionary Software Architectures, Neal Ford [Technical Architecture vs Domain Architecture] https://youtu.be/CglSFhwbI3s
