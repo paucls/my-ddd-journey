@@ -13,8 +13,9 @@ https://github.com/keyvanakbary/cqrs-documents
 - Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#, Scott Wlaschin - 2018.
 
 # Online Courses
-- [Domain-Driven Design Distilled, Vaughn Vernon. (4h)](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/)
-- [Domain-Driven Design in Practice, Vladimir Khorikov.](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents)
+- [Domain-Driven Design Fundamentals by Julie Lerman and Steve Smith (6/2014)](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)
+- [Domain-Driven Design in Practice, Vladimir Khorikov. (1/2016)](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents)
+- [Domain-Driven Design Distilled, Vaughn Vernon. (3/2017)](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/)
 - CQRS Tutorial http://cqrs.nu/
 - [CQRS in Practice, Vladimir Khorikov (10/2018)](https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents)
 
