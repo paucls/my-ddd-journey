@@ -17,7 +17,7 @@ https://github.com/keyvanakbary/cqrs-documents
 - [Domain-Driven Design in Practice, Vladimir Khorikov. (1/2016)](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents)
 - [Domain-Driven Design Distilled, Vaughn Vernon. (3/2017)](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/)
 - CQRS Tutorial http://cqrs.nu/
-- [CQRS in Practice, Vladimir Khorikov (10/2018)](https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents)
+- [CQRS in Practice, Vladimir Khorikov (10/2018)](https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents) [* My notes](https://paucls.wordpress.com/2019/01/12/my-notes-on-the-video-course-cqrs-in-practice-by-vladimir-khorikov/)
 
 # Podcasts
 - Being The Worst. Audio apprenticeships for the aspiring software craftsman. Currently exploring DDD, Event Sourcing, CQRS, distributed systems, etc. http://www.beingtheworst.com/
