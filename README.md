@@ -135,6 +135,10 @@ https://youtu.be/bnaYU4fjGe4
 - DDD Lessons, Barry O'Sullivan (2018)
 https://youtu.be/PMWl5X1sK70
 
+## Functional DDD
+- Functional architecture - The pits of success, Mark Seemann. (07/2016)
+https://youtu.be/US8QG9I1XW0
+
 ## Supporting Architectures
 - Evolutionary Software Architectures, Neal Ford [Technical Architecture vs Domain Architecture] https://youtu.be/CglSFhwbI3s
 - The Actor Model, Hewitt, Meijer and Szyperski
