@@ -20,6 +20,9 @@ https://github.com/keyvanakbary/cqrs-documents
 - [CQRS in Practice, Vladimir Khorikov (10/2018)](https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents) [* My notes](https://paucls.wordpress.com/2019/01/12/my-notes-on-the-video-course-cqrs-in-practice-by-vladimir-khorikov/)
 
 # Podcasts
+- Interview Eric Evans, SE-Radio (09/03/2006) http://www.se-radio.net/2006/03/episode-8-interview-eric-evans/
+- Eric Evans on Domain-Driven Design at 10 Years, SE-Radio (13/05/2015) http://www.se-radio.net/2015/05/se-radio-episode-226-eric-evans-on-domain-driven-design-at-10-years/
+- Reactive Programming with the Actor Model, Vaughn Vernon, SE-Radio (12/02/2016) http://www.se-radio.net/2016/02/se-radio-episode-249-vaughn-vernon-on-reactive-programming-with-the-actor-model/
 - Being The Worst. Audio apprenticeships for the aspiring software craftsman. Currently exploring DDD, Event Sourcing, CQRS, distributed systems, etc. http://www.beingtheworst.com/
 - Domain Driven Design and Micro Services, Vaughn Vernon. (17/08/208)
 https://corecursive.com/018-micro-services-and-domain-driven-design-with-vaughn-vernon/
