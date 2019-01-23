@@ -135,7 +135,7 @@ https://youtu.be/xSZnKnZ8EAo  [event storming, feature mapping, example mapping,
 - From Legacy Chaos to the Promised Land of DDD, Anita Kvamme and Ellen Lippe, 2018
 https://youtu.be/bnaYU4fjGe4
 [...changing software architecture and code isn't really about changing software architecture and code, it's about the people, it's about each individual and the interaction between them, it's about helping team members changing habits, to mentor and teach new skills, most of all to work all align together as a team]
-- DDD Lessons, Barry O'Sullivan (2018)
+- DDD Lessons, Barry O'Sullivan (2018) [Domains and SubDomains are composable. Bounded Contexts are independent (not composable).]
 https://youtu.be/PMWl5X1sK70
 
 ## Functional DDD
