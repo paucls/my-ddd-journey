@@ -96,6 +96,8 @@ https://thenewstack.io/how-cqrs-works-with-spring-tools/
 - Authentication and Authorization in DDD, José Luis Martínez (8/01/2016)
 https://medium.com/@martinezdelariva/authentication-and-authorization-in-ddd-671f7a5596ac
 - Domain-Driven Design vs. Anemic model. How do they differ?, Kamil Berdychowski (03/01/2017) https://blog.pragmatists.com/domain-driven-design-vs-anemic-model-how-do-they-differ-ffdee9371a86 [Anemic model and bulky services vs Rich model and thin services]
+- Refactoring from anemic model to DDD, Zbigniew Artemiuk (18/04/2017)
+https://blog.pragmatists.com/refactoring-from-anemic-model-to-ddd-880d3dd3d45f [refactoring repository to make it independent from implementation ...]
 
 ### REST
 - There is No U in CRUD, James Hood (25/07/2017) [resist the urge to follow the CRUD model for service APIs (use DDD to define your API in terms of domain objects and the business operations]
