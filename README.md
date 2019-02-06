@@ -80,6 +80,8 @@ https://blogs.msdn.microsoft.com/cesardelatorre/2017/02/07/domain-events-vs-inte
 ## Event Sourcing
 - Scalable Microservices with Event Sourcing and Redis, Tom Mooney (13/12/2017)
 https://medium.com/lcom-techblog/scalable-microservices-with-event-sourcing-and-redis-6aa245574db0
+- Don't Let the Internet Dupe You, Event Sourcing is Hard. (02/03/2019)
+https://chriskiehl.com/article/event-sourcing-is-hard
 
 ## Supporting Architectures
 - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together, Herberto Graça
