@@ -164,3 +164,5 @@ https://github.com/tpierrain/CQRS/blob/master/README.md
 https://github.com/zkavtaskin/Domain-Driven-Design-Example
 - All Things CQRS, A bunch of ways of doing CQRS with various Spring tools, Jakub Pilimon
 https://github.com/ddd-by-examples/all-things-cqrs
+- Acerola: Hexagonal Architecture
+https://github.com/ivanpaulovich/hexagonal-architecture-acerola
