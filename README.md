@@ -94,6 +94,8 @@ https://jimmybogard.com/vertical-slice-architecture/
 - Is Layering Worth the Mapping?, Mark Seemann (9/1/2012) http://blog.ploeh.dk/2012/02/09/IsLayeringWorththeMapping
 - How CQRS Works with Spring Tools, Jakub Pilimon (16/10/2018)
 https://thenewstack.io/how-cqrs-works-with-spring-tools/
+- Real world implementation of the Clean Architecture, Jeroen De Dauw
+https://entropywins.wtf/slides/fun-architecture/index.html#/
 
 ## Other
 - Authentication and Authorization in DDD, José Luis Martínez (8/01/2016)
