@@ -54,6 +54,10 @@ http://mat-mcloughlin.net/2014/05/22/entities-should-look-after-their-own-events
 - A Better Way to Project Domain Entities into DTOs, Nick Chamberlain
 https://buildplease.com/pages/repositories-dto/ [Should the projection from Aggregate(s) to DTO be done inside your Repositories?]
 
+## Value Objects
+- Value Objects Like a Pro,  Nicolò Pignatelli
+https://hackernoon.com/value-objects-like-a-pro-f1bfc1548c72
+
 ## Domain Services
 - Services in Domain-Driven Design, Jimmy Bogard
 https://lostechies.com/jimmybogard/2008/08/21/services-in-domain-driven-design/
