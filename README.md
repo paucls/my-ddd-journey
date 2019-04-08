@@ -57,6 +57,8 @@ https://buildplease.com/pages/repositories-dto/ [Should the projection from Aggr
 ## Value Objects
 - Value Objects Like a Pro,  Nicolò Pignatelli
 https://hackernoon.com/value-objects-like-a-pro-f1bfc1548c72
+- Domain-Driven Design: The Identifier Type Pattern, Gara Mohamed
+https://medium.com/@gara.mohamed/domain-driven-design-the-identifier-type-pattern-d86fd3c128b3 [... Primitive Identifier vs Type Identifier and Value Objects in TypeScript]
 
 ## Domain Services
 - Services in Domain-Driven Design, Jimmy Bogard
