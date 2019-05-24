@@ -141,7 +141,6 @@ https://youtu.be/DXbmfcgOvUI
 https://speakerdeck.com/mploed/ddd-strategic-design-with-spring-boot-examples
 - Case Study: Practical tools and strategies for tackling legacy practices and legacy systems in a fast-growing startup, Alejandro Scandroli
 https://www.slideshare.net/ascandroli/case-study-practical-tools-and-strategies-for-tackling-legacy-practices-and-legacy-systems-in-a-fastgrowing-startup
-- Adopting Domain Driven Design in your organization, Aleix Morgadas. (03/11/2018) https://docs.google.com/presentation/d/1Yiw6_u0rcJVHNBjnis56HdBiVg0-aGEMQPG06XG37zA
 - Case Study: tools and strategies for tackling legacy practices, Alejandro Scandroli. (2018)
 https://youtu.be/i8GzkkMWGYE [DDD strategic design, Wardley Maps, ...]
 - Domain Language throughout Tests, combining DDD and BDD. Kenny Baas
@@ -153,6 +152,11 @@ https://youtu.be/bnaYU4fjGe4
 https://youtu.be/PMWl5X1sK70
 - Language in Context, Eric Evans (2019)
 https://youtu.be/xyuKx5HsGK8
+
+# Presentations
+- Adopting Domain Driven Design in your organization, Aleix Morgadas. (03/11/2018) https://docs.google.com/presentation/d/1Yiw6_u0rcJVHNBjnis56HdBiVg0-aGEMQPG06XG37zA
+- DDD Modeling Workshop, Dennis Traub (22/10/2012)
+https://www.slideshare.net/Dennis_Traub/ddd-modeling-workshop
 
 ## Functional DDD
 - Functional architecture - The pits of success, Mark Seemann. (07/2016)
