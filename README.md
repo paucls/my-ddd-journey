@@ -17,6 +17,7 @@ https://github.com/keyvanakbary/cqrs-documents
 - [Domain-Driven Design in Practice, Vladimir Khorikov. (1/2016)](https://app.pluralsight.com/library/courses/domain-driven-design-in-practice/table-of-contents)
 - [Domain-Driven Design Distilled, Vaughn Vernon. (3/2017)](https://www.safaribooksonline.com/library/view/domain-driven-design-distilled/9780134593449/)
 - CQRS Tutorial http://cqrs.nu/
+- [Refactoring from Anemic Domain Model, Vladimir Khorikov](https://app.pluralsight.com/library/courses/refactoring-anemic-domain-model) [* My notes](https://paucls.wordpress.com/2019/01/23/my-notes-on-refactoring-from-anemic-domain-model-by-vladimir-khorikov/)
 - [CQRS in Practice, Vladimir Khorikov (10/2018)](https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents) [* My notes](https://paucls.wordpress.com/2019/01/12/my-notes-on-the-video-course-cqrs-in-practice-by-vladimir-khorikov/)
 - [Domain-Driven Design, Javier Ferrer and Rafa Gómez (2019)](https://pro.codely.tv/library/domain-driven-design-ddd/about/)
 
