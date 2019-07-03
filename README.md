@@ -82,7 +82,8 @@ https://spring.io/blog/2017/01/30/what-s-new-in-spring-data-release-ingalls#doma
 - Domain Events vs. Integration Events in Domain-Driven Design and microservices architectures, Cesar de la Torre (07/02/2017).
 https://blogs.msdn.microsoft.com/cesardelatorre/2017/02/07/domain-events-vs-integration-events-in-domain-driven-design-and-microservices-architectures/
 - Domain events: design and implementation. https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/domain-events-design-implementation
-- Domain events: simple and reliable solution, Vladimir Khorikov https://paucls.wordpress.com/?p=760&amp;preview=true
+- Domain events: simple and reliable solution, Vladimir Khorikov https://enterprisecraftsmanship.com/2017/10/03/domain-events-simple-and-reliable-solution/
+- DDD – Aggregate Roots and Domain Events publication, Paulo Clavijo https://paucls.wordpress.com/2018/05/31/ddd-aggregate-roots-and-domain-events-publication/
 
 ## Event Sourcing
 - Scalable Microservices with Event Sourcing and Redis, Tom Mooney (13/12/2017)
