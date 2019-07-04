@@ -78,14 +78,17 @@ http://gorodinski.com/blog/2012/04/14/services-in-domain-driven-design-ddd/
 ## Domain Events
 - A better domain events pattern, Jimmy Bogard (2014/05/13).
 https://lostechies.com/jimmybogard/2014/05/13/a-better-domain-events-pattern/
-- Spring - Domain event publication from aggregate roots, Mark Paluch (30/01/2017).
-https://spring.io/blog/2017/01/30/what-s-new-in-spring-data-release-ingalls#domain-event-publication-from-aggregate-roots
 - Domain Events vs. Integration Events in Domain-Driven Design and microservices architectures, Cesar de la Torre (07/02/2017).
 https://blogs.msdn.microsoft.com/cesardelatorre/2017/02/07/domain-events-vs-integration-events-in-domain-driven-design-and-microservices-architectures/
 - Domain events: design and implementation. https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/microservice-ddd-cqrs-patterns/domain-events-design-implementation
 - Domain events: simple and reliable solution, Vladimir Khorikov https://enterprisecraftsmanship.com/2017/10/03/domain-events-simple-and-reliable-solution/
 - DDD – Aggregate Roots and Domain Events publication, Paulo Clavijo https://paucls.wordpress.com/2018/05/31/ddd-aggregate-roots-and-domain-events-publication/
+### Implemented using Spring
+- Spring - Domain event publication from aggregate roots, Mark Paluch (30/01/2017).
+https://spring.io/blog/2017/01/30/what-s-new-in-spring-data-release-ingalls#domain-event-publication-from-aggregate-roots
 - Spring events and transactions — be cautious!, Zbigniew Artemiuk (30/10/2018) https://blog.pragmatists.com/spring-events-and-transactions-be-cautious-bdb64cb49a95
+- Transaction Synchronization and Spring Application Events: Understanding @TransactionalEventListener, Bartłomiej Słota (04/08/2017)
+https://dzone.com/articles/transaction-synchronization-and-spring-application
 
 ## Event Sourcing
 - Scalable Microservices with Event Sourcing and Redis, Tom Mooney (13/12/2017)
