@@ -183,3 +183,5 @@ https://github.com/zkavtaskin/Domain-Driven-Design-Example
 https://github.com/ddd-by-examples/all-things-cqrs
 - Acerola: Hexagonal Architecture
 https://github.com/ivanpaulovich/hexagonal-architecture-acerola
+- Project Spring DDD Bank, Christoph Knabe
+https://github.com/ChristophKnabe/spring-ddd-bank
