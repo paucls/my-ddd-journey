@@ -163,6 +163,8 @@ https://youtu.be/xyuKx5HsGK8
 - Adopting Domain Driven Design in your organization, Aleix Morgadas. (03/11/2018) https://docs.google.com/presentation/d/1Yiw6_u0rcJVHNBjnis56HdBiVg0-aGEMQPG06XG37zA
 - DDD Modeling Workshop, Dennis Traub (22/10/2012)
 https://www.slideshare.net/Dennis_Traub/ddd-modeling-workshop
+- Brownfield Domain Driven Design, Nicolò Pignatelli
+https://www.slideshare.net/NicolPignatelli/brownfield-domain-driven-design-48240538
 
 ## Functional DDD
 - Functional architecture - The pits of success, Mark Seemann. (07/2016)
