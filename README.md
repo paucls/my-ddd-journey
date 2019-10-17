@@ -190,3 +190,5 @@ https://github.com/ddd-by-examples/all-things-cqrs
 https://github.com/ivanpaulovich/hexagonal-architecture-acerola
 - Project Spring DDD Bank, Christoph Knabe
 https://github.com/ChristophKnabe/spring-ddd-bank
+- A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
+https://github.com/ddd-by-examples/library
