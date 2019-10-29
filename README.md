@@ -96,6 +96,10 @@ https://medium.com/lcom-techblog/scalable-microservices-with-event-sourcing-and-
 - Don't Let the Internet Dupe You, Event Sourcing is Hard. Chris Kiehl. (02/03/2019)
 https://chriskiehl.com/article/event-sourcing-is-hard
 
+## Specification Pattern
+- DDD and bulk operations, Vladimir Khorikov (28/10/2019)
+https://enterprisecraftsmanship.com/posts/ddd-bulk-operations/
+
 ## Supporting Architectures
 - DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together, Herberto Graça
 https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
