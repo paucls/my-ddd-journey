@@ -196,3 +196,7 @@ https://github.com/ivanpaulovich/hexagonal-architecture-acerola
 https://github.com/ChristophKnabe/spring-ddd-bank
 - A comprehensive Domain-Driven Design example with problem space strategic analysis and various tactical patterns.
 https://github.com/ddd-by-examples/library
+
+# Katas / Exercises
+- Transport Tycoon Exercises for DDD
+https://github.com/Softwarepark/exercises/blob/master/transport-tycoon.md
