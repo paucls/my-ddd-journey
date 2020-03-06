@@ -134,7 +134,7 @@ https://groups.google.com/forum/#!topic/dddcqrs/qf0EzujnDWA
 - Aggregate roots coordinating their entities in an event sourcing system [Should an AR wrap the behavior of its entities?]
 https://groups.google.com/forum/#!topic/dddcqrs/T9bWd48e40I
 
-# Entities
+## Entities
 - DDD Injecting Services on Entity Methods Calls [Is it within best practices of DDD and OOP to inject services on entity method calls?]
 https://softwareengineering.stackexchange.com/questions/357969/ddd-injecting-services-on-entity-methods-calls
 
@@ -201,3 +201,6 @@ https://github.com/ddd-by-examples/library
 # Katas / Exercises
 - Transport Tycoon Exercises for DDD
 https://github.com/Softwarepark/exercises/blob/master/transport-tycoon.md
+
+# Others
+- DDD Heuristics (Heuristics to share and use for designing software) https://www.dddheuristics.com/
