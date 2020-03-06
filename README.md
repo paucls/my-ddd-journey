@@ -137,6 +137,8 @@ https://groups.google.com/forum/#!topic/dddcqrs/T9bWd48e40I
 ## Entities
 - DDD Injecting Services on Entity Methods Calls [Is it within best practices of DDD and OOP to inject services on entity method calls?]
 https://softwareengineering.stackexchange.com/questions/357969/ddd-injecting-services-on-entity-methods-calls
+- DDD - Persistence Model and Domain Model https://stackoverflow.com/questions/14024912/ddd-persistence-model-and-domain-model
+- Spring Boot: How to keep DDD entities clean from JPA/Hibernate Annotations? https://stackoverflow.com/questions/58018542/spring-boot-how-to-keep-ddd-entities-clean-from-jpa-hibernate-annotations
 
 # Talks
 - Domain Driven Design: The Good Parts. Jimmy Bogard. (08/2016)
