@@ -21,7 +21,7 @@ https://github.com/keyvanakbary/cqrs-documents
 - [CQRS in Practice, Vladimir Khorikov (10/2018)](https://app.pluralsight.com/library/courses/cqrs-in-practice/table-of-contents) [* My notes](https://paucls.wordpress.com/2019/01/12/my-notes-on-the-video-course-cqrs-in-practice-by-vladimir-khorikov/)
 - [Domain-Driven Design, Javier Ferrer and Rafa Gómez (2019)](https://pro.codely.tv/library/domain-driven-design-ddd/about/)
 - [DDD and EF Core: Preserving Encapsulation, Vladimir Khorikov. (4/3/2020)](https://app.pluralsight.com/library/courses/ddd-ef-core-preserving-encapsulation)
-- [Software Architecture: Domain-Driven Design, Allen Holub (18/09/2019)] https://www.linkedin.com/learning/software-architecture-domain-driven-design
+- [Software Architecture: Domain-Driven Design, Allen Holub (18/09/2019)](https://www.linkedin.com/learning/software-architecture-domain-driven-design)
 
 # Podcasts
 - Interview Eric Evans, SE-Radio (09/03/2006) http://www.se-radio.net/2006/03/episode-8-interview-eric-evans/
