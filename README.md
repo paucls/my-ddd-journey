@@ -34,6 +34,7 @@ https://corecursive.com/018-micro-services-and-domain-driven-design-with-vaughn-
 https://content.pivotal.io/podcasts/domain-driven-design-event-storming-with-jakub-pilimon
 
 # Articles
+
 ## Aggregates
 - DDD Decoded - The Aggregate and Aggregate Root Explained, Mike Mogosanu
 http://blog.sapiensworks.com/post/2016/07/14/DDD-Aggregate-Decoded-1
@@ -116,6 +117,8 @@ https://thenewstack.io/how-cqrs-works-with-spring-tools/
 https://entropywins.wtf/slides/fun-architecture/index.html#/
 
 ## Other
+- Domain model purity vs. domain model completeness, Vladimir Khorikov (04/08/2020)
+https://enterprisecraftsmanship.com/posts/domain-model-purity-completeness
 - Authentication and Authorization in DDD, José Luis Martínez (8/01/2016)
 https://medium.com/@martinezdelariva/authentication-and-authorization-in-ddd-671f7a5596ac
 - Domain-Driven Design vs. Anemic model. How do they differ?, Kamil Berdychowski (03/01/2017) https://blog.pragmatists.com/domain-driven-design-vs-anemic-model-how-do-they-differ-ffdee9371a86 [Anemic model and bulky services vs Rich model and thin services]
