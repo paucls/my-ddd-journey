@@ -177,6 +177,10 @@ https://www.slideshare.net/Dennis_Traub/ddd-modeling-workshop
 - Brownfield Domain Driven Design, Nicolò Pignatelli
 https://www.slideshare.net/NicolPignatelli/brownfield-domain-driven-design-48240538
 
+## Domain Events
+- Domain Event - The Hidden Gem of DDD,  Henrik Møller Rasmussen
+https://www.slideshare.net/heinodk/domain-event-the-hidden-gem-of-ddd
+
 ## Functional DDD
 - Functional architecture - The pits of success, Mark Seemann. (07/2016)
 https://youtu.be/US8QG9I1XW0
