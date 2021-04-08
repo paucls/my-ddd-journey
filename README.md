@@ -190,6 +190,10 @@ https://youtu.be/US8QG9I1XW0
 - The Actor Model, Hewitt, Meijer and Szyperski
 https://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask
 
+# Other Resources
+- Domain-Driven Design Starter Modelling Process
+https://github.com/ddd-crew/ddd-starter-modelling-process
+
 # Sample projects
 - DDD Sample Core
 https://github.com/citerus/dddsample-core
