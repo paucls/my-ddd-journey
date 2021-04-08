@@ -191,6 +191,8 @@ https://youtu.be/US8QG9I1XW0
 https://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask
 
 # Other Resources
+- DDD Heuristics (Heuristics to share and use for designing software)
+https://www.dddheuristics.com/
 - Domain-Driven Design Starter Modelling Process
 https://github.com/ddd-crew/ddd-starter-modelling-process
 
@@ -215,6 +217,3 @@ https://github.com/ddd-by-examples/library
 # Katas / Exercises
 - Transport Tycoon Exercises for DDD
 https://github.com/Softwarepark/exercises/blob/master/transport-tycoon.md
-
-# Others
-- DDD Heuristics (Heuristics to share and use for designing software) https://www.dddheuristics.com/
