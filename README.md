@@ -143,6 +143,7 @@ https://groups.google.com/forum/#!topic/dddcqrs/T9bWd48e40I
 https://softwareengineering.stackexchange.com/questions/357969/ddd-injecting-services-on-entity-methods-calls
 - DDD - Persistence Model and Domain Model https://stackoverflow.com/questions/14024912/ddd-persistence-model-and-domain-model
 - Spring Boot: How to keep DDD entities clean from JPA/Hibernate Annotations? https://stackoverflow.com/questions/58018542/spring-boot-how-to-keep-ddd-entities-clean-from-jpa-hibernate-annotations
+- DDD - the rule that Entities can't access Repositories directly https://stackoverflow.com/questions/5694241/ddd-the-rule-that-entities-cant-access-repositories-directly
 
 # Talks
 - Domain Driven Design: The Good Parts. Jimmy Bogard. (08/2016)
