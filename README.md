@@ -11,6 +11,8 @@ A list of Domain-Driven Design resources that I found interesting on my journey 
 https://github.com/keyvanakbary/cqrs-documents
 - Functional and Reactive Domain Modeling, Debasish Ghosh - 2016.
 - Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#, Scott Wlaschin - 2018.
+- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/en/book/show/55782292), Vaughn Vernon,
+Tomasz Jaskula - 2021.
 
 # Online Courses
 - [Domain-Driven Design Fundamentals by Julie Lerman and Steve Smith (6/2014)](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)
