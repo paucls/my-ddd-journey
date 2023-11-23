@@ -4,15 +4,16 @@ A list of Domain-Driven Design resources that I found interesting on my journey 
 # Books
 - Domain-Driven Design Distilled. Vaughn Vernon – 2016.
 - Implementing Domain Driven Design - Vaughn Vernon.
-- Domain-Driven Design: Tackling Complexity in the Heart of Software - Eric Evans - 2003.
+- Domain-Driven Design: Tackling Complexity in the Heart of Software. Eric Evans - 2003.
 - The Anatomy Of Domain-Driven Design - Booklet https://leanpub.com/theanatomyofdomain-drivendesign
-- Designing Autonomous Teams and Services, Nick Tune and Scott Millett - 2017 http://www.oreilly.com/programming/free/designing-autonomous-teams-and-services.csp
-- CQRS Documents, Greg Young
+- Designing Autonomous Teams and Services. Nick Tune and Scott Millett - 2017 http://www.oreilly.com/programming/free/designing-autonomous-teams-and-services.csp
+- CQRS Documents. Greg Young.
 https://github.com/keyvanakbary/cqrs-documents
-- Functional and Reactive Domain Modeling, Debasish Ghosh - 2016.
-- Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#, Scott Wlaschin - 2018.
-- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/en/book/show/55782292), Vaughn Vernon,
+- Functional and Reactive Domain Modeling. Debasish Ghosh - 2016.
+- Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#. Scott Wlaschin - 2018.
+- [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/en/book/show/55782292). Vaughn Vernon,
 Tomasz Jaskula - 2021.
+- Design and Reality. Rebecca Wirfs-Brock and Mathias Verraes - 2023.
 
 # Online Courses
 - [Domain-Driven Design Fundamentals by Julie Lerman and Steve Smith (6/2014)](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)
