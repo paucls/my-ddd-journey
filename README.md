@@ -13,7 +13,7 @@ https://github.com/keyvanakbary/cqrs-documents
 - Domain Modeling Made Functional: Tackle Software Complexity with Domain-Driven Design and F#. Scott Wlaschin - 2018.
 - [Strategic Monoliths and Microservices: Driving Innovation Using Purposeful Architecture](https://www.goodreads.com/en/book/show/55782292). Vaughn Vernon,
 Tomasz Jaskula - 2021.
-- Design and Reality. Rebecca Wirfs-Brock and Mathias Verraes - 2023.
+- [Design and Reality](https://leanpub.com/design-and-reality). Rebecca Wirfs-Brock and Mathias Verraes - 2023.
 
 # Online Courses
 - [Domain-Driven Design Fundamentals by Julie Lerman and Steve Smith (6/2014)](https://app.pluralsight.com/library/courses/domain-driven-design-fundamentals/table-of-contents)
